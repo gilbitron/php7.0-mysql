@@ -9,3 +9,5 @@ Be default it assumes your app has a `run.sh` file in the root that runs your te
 ```
 docker run -v /path/to/your/app:/app gilbitron/php7.0-mysql
 ```
+
+Looking for [PHP 5.6](https://github.com/gilbitron/php5.6-mysql)?
